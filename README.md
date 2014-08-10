@@ -8,11 +8,9 @@ A library that password protects Activities
 
 Example
 =======
-```
-
+```java
     PasswordProtectionDialog mDialog = new PasswordProtectionDialog(this);
     mDialog.initializeDialog();
-
 ```
 
 There are a lot of customization for the dialog documented by Javadoc! 
