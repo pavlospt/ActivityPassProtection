@@ -3,6 +3,9 @@ ActivityPassProtection
 
 A library that password protects Activities
 
+
+![Activity Pass Protection](/Screenshots/Screenshot_1.png)
+
 Example
 =======
 ```
