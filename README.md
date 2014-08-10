@@ -13,6 +13,14 @@ Example
     mDialog.initializeDialog();
 ```
 
+The first time that you call the dialog it will ask you for a password! 
+
+Although you can manually set it and save it to the SharedPreferences by using the keys from Constants! The library checks if a password has been set and does not ask for one in such case! 
+
+I purposely left the reset and password set functionality out of the Library because every developer wants to do it in his/her way! 
+
+So just use the shared preferences keys and implement your own functionality that fits your needs best :) 
+
 There are a lot of customization for the dialog documented by Javadoc! 
 
 How To Use
