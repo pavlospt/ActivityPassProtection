@@ -26,7 +26,7 @@ There are a lot of customization for the dialog documented by Javadoc!
 How To Use
 ==========
 
-It will be on Maven Central in a couple of hours! I will update as soon as it is up! 
+```compile 'com.github.pavlospt:activitypassprotection:1.0' ```
 
 
 Developed By
