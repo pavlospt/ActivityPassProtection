@@ -29,7 +29,7 @@ How To Use
 It will be on Maven Central in a couple of hours! I will update as soon as it is up! 
 
 
-Credits
+Developed By
 =======
 Author : Pavlos-Petros Tournaris (p.tournaris@gmail.com)
 
