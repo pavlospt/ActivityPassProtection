@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialog_password_title">Password:</string>
+    <string name="dialog_password_hint_text">Password</string>
+    <string name="dialog_confirm_password_text">Confirm:</string>
+    <string name="dialog_confirm_password_hint_text">Confirm</string>
+
+</resources>
