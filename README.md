@@ -6,6 +6,8 @@ A library that password protects Activities
 
 ![Activity Pass Protection](/Screenshots/Screenshot_1.png)
 
+[![Android Arsenal](http://img.shields.io/badge/Android%20Arsenal-ActivityPassProtection-blue.svg)](http://android-arsenal.com/details/1/797)
+
 Example
 =======
 ```java
